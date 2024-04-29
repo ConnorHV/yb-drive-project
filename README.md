@@ -6,7 +6,7 @@
 
 ---
 ### Week 2
-- 
+- Learned how to create hyperlinks that direct to sub-pages
 
 ---
 ### Week 3
