@@ -7,7 +7,7 @@
 ---
 ### Week 2
 - Learned how to create hyperlinks that direct to sub-pages
-- Implemented new text fonts an styles
+- Created a custom URL link/domain for my site
 
 ---
 ### Week 3
