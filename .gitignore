@@ -3,8 +3,3 @@ CNAME
 
 # System Files
 .DS_Store
-
-# Node Modules
-package.json
-package-lock.json
-node_modules/
