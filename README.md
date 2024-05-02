@@ -7,7 +7,7 @@
 ---
 ### Week 2
 - Learned how to create hyperlinks that direct to sub-pages
-- Created a custom URL link/domain for my site
+- Created a custom URL link/domain for my site [Click Me](https://connorhv.work)
 
 ---
 ### Week 3
