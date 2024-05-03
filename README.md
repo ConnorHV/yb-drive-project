@@ -8,6 +8,7 @@
 ### Week 2
 - Learned how to create hyperlinks that direct to sub-pages
 - Created a custom URL link/domain for my site [Click Me](https://connorhv.work)
+- Added a footer to my page; includes 3 categories with hyperlinks going to other pages
 
 ---
 ### Week 3
