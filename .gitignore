@@ -3,3 +3,8 @@
 
 # Versel Connection for npm
 .vercel
+
+# Node Modules
+node_modules
+package-lock.json
+package.json
