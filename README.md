@@ -12,7 +12,7 @@
 
 ---
 ### Week 3
-- Helped with teacher appriciation messages with chalk on entrance to school
+- Helped with teacher appreciation messages with chalk on the entrance to the school
 - Tried to investigate the issue of my favicon (browser icon) not being uploaded
 
 ---
