@@ -17,6 +17,7 @@
 
 ---
 ### Week 4
+- Participated with educational kahoots
 - 
 
 ---
