@@ -18,7 +18,7 @@
 ---
 ### Week 4
 - Participated with educational kahoots
-- 
+- After lots of struggling, I ended up just adjusting the way I have my code formatted to being a internal styling. Footer for my website now works
 
 ---
 ### Week 5
